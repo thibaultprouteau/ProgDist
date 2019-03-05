@@ -1,0 +1,19 @@
+Thibault PROUTEAU
+
+Question 1: Pourquoi l’interface ITask ne peut pas hériter de l’interface ITaskObserver ?
+
+L'interface ITask ne peut pas hériter de ITaskObserver car ITask désigne une interface locale alors que ITaskObserver
+est une interface distante.
+
+Question 2: Pourquoi les instances de la classe TaskObserverImpl n’ont pas besoin d’être publiées alors que l’instance de la classe ComputeEngineFactory doit être
+publiée dans un registre RMI ?
+
+Les instances de TaskObserverImpl n'ont pas besoin d'êtres publiées car elles sont uniques à un client alors que la classe ComputeEngineFactory à besoin d'être
+accessible pour tous les clients présents et à venir, d'où la publication de celle ci dans RMIRegistry.
+
+Question 3: Expliquez en quelques lignes le fonctionnement de l’exécution d’une tâche
+synchrone en indiquant les différents objets et méthodes utilisées.
+
+Pour exécuter une tâche synchrone, tout d'abord, un objet TaskObserverImpl est créé
+cet objet est utilisé pour la création d'un objet Pi en accédant à la classe client Pi.
+On exécute ensuite la tâche sur l'objet Pi puis on affiche le résultat récupéré de la tâche.

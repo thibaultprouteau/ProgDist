@@ -1,0 +1,42 @@
+13:51:41.764 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+13:51:41.769 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+13:51:41.771 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+13:51:41.974 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+13:51:41.975 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+13:51:41.975 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/
+15:18:46.771 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+15:18:46.774 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+15:18:46.776 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+15:18:46.944 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+15:18:46.945 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+15:18:46.945 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/
+15:40:32.636 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+15:40:32.641 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+15:40:32.644 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+15:40:32.823 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+15:40:32.824 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+15:40:32.824 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/
+15:41:38.944 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+15:41:38.946 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+15:41:38.948 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+15:41:39.079 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+15:41:39.080 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+15:41:39.080 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/
+15:48:43.324 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+15:48:43.326 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+15:48:43.328 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+15:48:43.459 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+15:48:43.460 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+15:48:43.460 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/
+16:11:35.106 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+16:11:35.109 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+16:11:35.111 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+16:11:35.264 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+16:11:35.266 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+16:11:35.266 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/
+16:12:16.502 INFO  [main] - Server accepting connections on tcp://172.20.10.4:3035/
+16:12:16.504 INFO  [main] - JNDI service accepting connections on tcp://172.20.10.4:3035/
+16:12:16.506 INFO  [main] - Admin service accepting connections on tcp://172.20.10.4:3035/
+16:12:16.678 INFO  [main] - Server accepting connections on rmi://172.20.10.4:1099/
+16:12:16.678 INFO  [main] - JNDI service accepting connections on rmi://172.20.10.4:1099/
+16:12:16.679 INFO  [main] - Admin service accepting connections on rmi://172.20.10.4:1099/

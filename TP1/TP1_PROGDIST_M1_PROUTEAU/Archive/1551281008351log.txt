@@ -1,0 +1,5 @@
+Heure:1551281008344
+Destination:journal_topic-true
+Login :null
+Message:Erreur : fichier toto.xml non trouve
+Concerne:null

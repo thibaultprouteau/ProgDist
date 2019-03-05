@@ -1,0 +1,2 @@
+Pour prendre en compte que le le contrôleur n'est pas toujours en fonctionnement j'ai créé un Durable Subscriber qui permet de récupérer
+les messages même quand le contrôleur n'est pas disponible.

@@ -1,0 +1,5 @@
+Heure:1551281011801
+Destination:journal_topic-true
+Login :null
+Message:Logout
+Concerne:null
